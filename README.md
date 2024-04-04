@@ -1,0 +1,3 @@
+This is me just playing around, creating a fancy UI. It doesn't do anything, but it could...
+
+![ui_medium](https://github.com/DjokaFioka/ComposePrettyUI/assets/19330680/883ef174-4244-45fe-8d46-bbb64b9360ca)
